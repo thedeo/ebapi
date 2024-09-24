@@ -1,0 +1,303 @@
+name,item,price,area
+Burglin Park Bakery,Cookie,7,Twoson
+Burglin Park Bakery,Bread Roll,12,Twoson
+Burglin Park Bakery,Skip Sandwich,38,Twoson
+Burglin Park Bakery,Lucky Sandwich,128,Twoson
+Burglin Park Bakery,Can of Fruit Juice,4,Twoson
+Burglin Park Bakery,Cup of Coffee,6,Twoson
+Burglin Park Banana Lady,Banana,5,Twoson
+Burglin Park Condiments Shop,Ketchup Packet,2,Twoson
+Burglin Park Condiments Shop,Sugar Packet,3,Twoson
+Burglin Park Condiments Shop,Tin of Cocoa,4,Twoson
+Burglin Park Condiments Shop,Carton of Cream,4,Twoson
+Burglin Park Condiments Shop,Sprig of Parsley,2,Twoson
+Burglin Park Condiments Shop,Jar of Hot Sauce,3,Twoson
+Burglin Park Condiments Shop,Salt Packet,2,Twoson
+Burglin Park Egg Salesman,Fresh Egg,12,Twoson
+Burglin Park Ruler Salesman,Ruler,2,Twoson
+Burglin Park Sign Shop,For Sale Sign,98,Twoson
+Burglin Park Tool Shop,Defense Spray,500,Twoson
+Burglin Park Tool Shop,Rust Promoter,89,Twoson
+Burglin Park Tool Shop,Travel Charm,60,Twoson
+Burglin Park Tool Shop,Copper Bracelet,349,Twoson
+Burglin Park Tool Shop,Broken Spray Can,189,Twoson
+Burglin Park Tool Shop,Broken Iron,149,Twoson
+Dalaam Restaurant,Bottle of Water,4,Dalaam
+Dalaam Restaurant,Bowl of Rice Gruel,88,Dalaam
+Dalaam Restaurant,Jar of Delisauce,300,Dalaam
+Dalaam Restaurant,Brain Food Lunch,800,Dalaam
+Deep Darkness Arms Dealer,Combat Yo-Yo,1148,Deep Darkness
+Deep Darkness Arms Dealer,Super Bomb,399,Deep Darkness
+Deep Darkness Arms Dealer,Multi Bottle Rocket,2139,Deep Darkness
+Deep Darkness Arms Dealer,Rust Promoter DX,289,Deep Darkness
+Deep Darkness Shop,Diamond Band (2),5198,Deep Darkness
+Deep Darkness Shop,Charm Coin,3000,Deep Darkness
+Deep Darkness Shop,Secret Herb,380,Deep Darkness
+Deep Darkness Shop,Beef Jerky,70,Deep Darkness
+Deep Darkness Shop,Cup of Noodles,98,Deep Darkness
+Deep Darkness Shop,Protein Drink,38,Deep Darkness
+Deep Darkness Shop,Bottle of DXwater,198,Deep Darkness
+Desert Arms Dealer,Zip Gun,425,Dusty Dunes Desert
+Desert Arms Dealer,Bomb,148,Dusty Dunes Desert
+Desert Arms Dealer,Bottle Rocket,29,Dusty Dunes Desert
+Desert Arms Dealer,Rust Promoter,89,Dusty Dunes Desert
+Desert Drugstore,Mr. Baseball Bat,498,Dusty Dunes Desert
+Desert Drugstore,Thick Fry Pan,198,Dusty Dunes Desert
+Desert Drugstore,Deluxe Fry Pan,598,Dusty Dunes Desert
+Desert Drugstore,Silver Bracelet,599,Dusty Dunes Desert
+Desert Drugstore,Coin of Slumber,1500,Dusty Dunes Desert
+Desert Drugstore,Wet Towel,24,Dusty Dunes Desert
+Desert Drugstore,Refreshing Herb,80,Dusty Dunes Desert
+Desert Drugstore,Calorie Stick,18,Dusty Dunes Desert
+Desert Drugstore,Skip Sandwich,38,Dusty Dunes Desert
+Desert Drugstore,Lucky Sandwich,128,Dusty Dunes Desert
+Desert Drugstore,Can of Fruit Juice,4,Dusty Dunes Desert
+Desert Drugstore,Picnic Lunch,24,Dusty Dunes Desert
+Desert Food Cart,Can of Fruit Juice,4,Dusty Dunes Desert
+Desert Food Cart,Cup of Coffee,6,Dusty Dunes Desert
+Desert Food Cart,Hamburger,14,Dusty Dunes Desert
+Desert Food Cart,Picnic Lunch,24,Dusty Dunes Desert
+Desert Food Cart,Skip Sandwich,38,Dusty Dunes Desert
+Desert Food Cart,Wet Towel,24,Dusty Dunes Desert
+Desert Food Cart,Popsicle,7,Dusty Dunes Desert
+Fourside Bakery,Cookie,7,Fourside
+Fourside Bakery,Bread Roll,12,Fourside
+Fourside Bakery,Croissant,18,Fourside
+Fourside Bakery,Skip Sandwich,38,Fourside
+Fourside Bakery,Skip Sandwich DX,98,Fourside
+Fourside Bakery,Lucky Sandwich,128,Fourside
+Fourside Dept. Store Arms Dealer,Hyper Beam,850,Fourside
+Fourside Dept. Store Arms Dealer,Bomb,148,Fourside
+Fourside Dept. Store Arms Dealer,Super Bomb,399,Fourside
+Fourside Dept. Store Arms Dealer,Bottle Rocket,29,Fourside
+Fourside Dept. Store Arms Dealer,Big Bottle Rocket,139,Fourside
+Fourside Dept. Store Burger Shop,Can of Fruit Juice,4,Fourside
+Fourside Dept. Store Burger Shop,Cup of Coffee,6,Fourside
+Fourside Dept. Store Burger Shop,Bag of Fries,8,Fourside
+Fourside Dept. Store Burger Shop,Hamburger,14,Fourside
+Fourside Dept. Store Burger Shop,Double Burger,24,Fourside
+Fourside Dept. Store Condiments Shop,Ketchup Packet,2,Fourside
+Fourside Dept. Store Condiments Shop,Sugar Packet,3,Fourside
+Fourside Dept. Store Condiments Shop,Tin of Cocoa,4,Fourside
+Fourside Dept. Store Condiments Shop,Carton of Cream,4,Fourside
+Fourside Dept. Store Condiments Shop,Sprig of Parsley,2,Fourside
+Fourside Dept. Store Condiments Shop,Jar of Hot Sauce,3,Fourside
+Fourside Dept. Store Condiments Shop,Salt Packet,2,Fourside
+Fourside Dept. Store Food Shop,Bread Roll,12,Fourside
+Fourside Dept. Store Food Shop,Croissant,18,Fourside
+Fourside Dept. Store Food Shop,Banana,5,Fourside
+Fourside Dept. Store Food Shop,Picnic Lunch,24,Fourside
+Fourside Dept. Store Item Shop,Cold Remedy,22,Fourside
+Fourside Dept. Store Item Shop,Refreshing Herb,80,Fourside
+Fourside Dept. Store Item Shop,Protein Drink,38,Fourside
+Fourside Dept. Store Item Shop,Calorie Stick,18,Fourside
+Fourside Dept. Store Sports Shop,Sand Lot Bat,98,Fourside
+Fourside Dept. Store Sports Shop,Minor League Bat,399,Fourside
+Fourside Dept. Store Sports Shop,Mr. Baseball Bat,498,Fourside
+Fourside Dept. Store Sports Shop,Baseball Cap,19,Fourside
+Fourside Dept. Store Ticket Counter,Show Ticket,30,Fourside
+Fourside Dept. Store Tool Shop,Deluxe Fry Pan,598,Fourside
+Fourside Dept. Store Tool Shop,Chef's Fry Pan,1198,Fourside
+Fourside Dept. Store Tool Shop,Silver Bracelet,599,Fourside
+Fourside Dept. Store Tool Shop,Gold Bracelet,2799,Fourside
+Fourside Dept. Store Tool Shop,Insecticide Spray,19,Fourside
+Fourside Dept. Store Tool Shop,Toothbrush,3,Fourside
+Fourside Dept. Store Tool Shop,Protractor,2,Fourside
+Fourside Dept. Store Toy Shop,Trick Yo-Yo,998,Fourside
+Fourside Dept. Store Toy Shop,Coin of Slumber,1500,Fourside
+Fourside Dept. Store Toy Shop,Coin of Defense,2000,Fourside
+Fourside Dept. Store Toy Shop,Red Ribbon,179,Fourside
+Fourside Dept. Store Toy Shop,Defense Ribbon,389,Fourside
+Fourside Dept. Store Toy Shop,Teddy Bear,178,Fourside
+Fourside Junk Shop,Broken Gadget,109,Fourside
+Fourside Junk Shop,Broken Iron,149,Fourside
+Fourside Junk Shop,Defense Spray,500,Fourside
+Fourside Junk Shop,Rust Promoter,89,Fourside
+Grapefruit Falls Salesman,Croissant,18,Threed
+Grapefruit Falls Salesman,Calorie Stick,18,Threed
+Grapefruit Falls Salesman,Cup of Coffee,6,Threed
+Happy Happy Village Drugstore,Sand Lot Bat,98,Happy Happy Village
+Happy Happy Village Drugstore,Fry Pan,56,Happy Happy Village
+Happy Happy Village Drugstore,Copper Bracelet,349,Happy Happy Village
+Happy Happy Village Drugstore,Holmes Hat,59,Happy Happy Village
+Happy Happy Village Drugstore,Ribbon,89,Happy Happy Village
+Happy Happy Village Drugstore,Cold Remedy,22,Happy Happy Village
+Happy Happy Village Drugstore,Refreshing Herb,80,Happy Happy Village
+Happy Happy Village Drugstore,Croissant,18,Happy Happy Village
+Happy Happy Village Drugstore,Skip Sandwich,38,Happy Happy Village
+Happy Happy Village Drugstore,Lucky Sandwich,128,Happy Happy Village
+Happy Happy Village Drugstore,Can of Fruit Juice,4,Happy Happy Village
+Happy Happy Village Drugstore,Cup of Coffee,6,Happy Happy Village
+Happy Happy Village Self-Serve Stand,Banana,5,Happy Happy Village
+Happy Happy Village Self-Serve Stand,Fresh Egg,12,Happy Happy Village
+Lost Underworld Shop,Ultimate Bat,2298,Lost Underworld
+Lost Underworld Shop,Holy Fry Pan,3480,Lost Underworld
+Lost Underworld Shop,Shiny Coin,4000,Lost Underworld
+Lost Underworld Shop,Horn of Life,1780,Lost Underworld
+Lost Underworld Shop,Mammoth Burger,98,Lost Underworld
+Lost Underworld Shop,Luxury Jerky,210,Lost Underworld
+Lost Underworld Shop,Bottle of DXwater,198,Lost Underworld
+Magicant Shop,Magic Pudding,680,Magicant
+Magicant Shop,Earth Pendant,4000,Magicant
+Moonside Hotel Shop,Can of Fruit Juice,4,Moonside
+Moonside Hotel Shop,Cup of Coffee,6,Moonside
+Moonside Hotel Shop,Hamburger,14,Moonside
+Moonside Hotel Shop,Double Burger,24,Moonside
+Moonside Hotel Shop,Lucky Sandwich,128,Moonside
+Onett Bakery,Cookie,7,Onett
+Onett Bakery,Bread Roll,12,Onett
+Onett Bakery,Skip Sandwich,38,Onett
+Onett Bakery,Lucky Sandwich,128,Onett
+Onett Burger Shop,Can of Fruit Juice,4,Onett
+Onett Burger Shop,Cup of Coffee,6,Onett
+Onett Burger Shop,Bag of Fries,8,Onett
+Onett Burger Shop,Hamburger,14,Onett
+Onett Drugstore,Cracked Bat,18,Onett
+Onett Drugstore,Tee Ball Bat,48,Onett
+Onett Drugstore,Yo-Yo,29,Onett
+Onett Drugstore,Baseball Cap,19,Onett
+Onett Drugstore,Cheap Bracelet,98,Onett
+Onett Drugstore,Cold Remedy,22,Onett
+Saturn Valley (After Magicant),Flame Pendant,3000,Saturn Valley
+Saturn Valley (After Magicant),Rain Pendant,3000,Saturn Valley
+Saturn Valley (After Magicant),Night Pendant,3000,Saturn Valley
+Saturn Valley (After Magicant),Piggy Jelly,222,Saturn Valley
+Saturn Valley Shop,Insecticide Spray,19,Saturn Valley
+Saturn Valley Shop,Stag Beetle,8,Saturn Valley
+Saturn Valley Shop,Refreshing Herb,80,Saturn Valley
+Saturn Valley Shop,Peanut Cheese Bar,22,Saturn Valley
+Saturn Valley Shop,Horn of Life,1780,Saturn Valley
+Saturn Valley Shop,Secret Herb,380,Saturn Valley
+Saturn Valley Shop,Picture Postcard,2,Saturn Valley
+Saturn Valley Shop,Bionic Slingshot,449,Saturn Valley
+Saturn Valley Shop,Travel Charm,60,Saturn Valley
+Saturn Valley Shop,Great Charm,400,Saturn Valley
+Saturn Valley Shop,Silver Bracelet,599,Saturn Valley
+Saturn Valley Shop,Red Ribbon,179,Saturn Valley
+Scaraba Arms Dealer,Bomb,148,Scaraba
+Scaraba Arms Dealer,Super Bomb,399,Scaraba
+Scaraba Arms Dealer,Bottle Rocket,29,Scaraba
+Scaraba Arms Dealer,Big Bottle Rocket,139,Scaraba
+Scaraba Condiments Shop,Ketchup Packet,2,Scaraba
+Scaraba Condiments Shop,Sugar Packet,3,Scaraba
+Scaraba Condiments Shop,Tin of Cocoa,4,Scaraba
+Scaraba Condiments Shop,Carton of Cream,4,Scaraba
+Scaraba Condiments Shop,Sprig of Parsley,2,Scaraba
+Scaraba Condiments Shop,Jar of Hot Sauce,3,Scaraba
+Scaraba Condiments Shop,Salt Packet,2,Scaraba
+Scaraba Food Shop,Bean Croquette,12,Scaraba
+Scaraba Food Shop,Molokheiya Soup,20,Scaraba
+Scaraba Food Shop,Kabob,54,Scaraba
+Scaraba Food Shop,Boiled Egg,9,Scaraba
+Scaraba Food Shop,Fresh Egg,12,Scaraba
+Scaraba Food Shop,Cup of Coffee,6,Scaraba
+Scaraba Food Shop,Bottle of Water,4,Scaraba
+Scaraba Shop,Wet Towel,24,Scaraba
+Scaraba Shop,Vial of Serum,58,Scaraba
+Scaraba Shop,Secret Herb,380,Scaraba
+Scaraba Shop,Sudden Guts Pill,500,Scaraba
+Scaraba Shop,Protein Drink,38,Scaraba
+Scaraba Shop,Banana,5,Scaraba
+Scaraba Snake Bag Shop,Snake Bag,98,Scaraba
+Scaraba Snake Shop,Snake,220,Scaraba
+Scaraba Snake Shop,Viper,550,Scaraba
+Scaraba Snake Shop,Vial of Serum,58,Scaraba
+Scaraba Southern Shop,French Fry Pan,1790,Scaraba
+Scaraba Southern Shop,Crusher Beam,1150,Scaraba
+Scaraba Southern Shop,Multi Bottle Rocket,2139,Scaraba
+Scaraba Southern Shop,Bazooka,950,Scaraba
+Scaraba Southern Shop,Bottle of DXwater,198,Scaraba
+Scaraba Southern Shop,Beef Jerky,70,Scaraba
+Scaraba Southern Shop,Secret Herb,380,Scaraba
+Scaraba Tool Shop,Big League Bat,1380,Scaraba
+Scaraba Tool Shop,Platinum Band,3899,Scaraba
+Scaraba Tool Shop,Defense Spray,500,Scaraba
+Scaraba Tool Shop,Crystal Charm,600,Scaraba
+Scaraba Tool Shop,Broken Cannon,218,Scaraba
+Scaraba Tool Shop,Piggy Nose,300,Scaraba
+Scaraba Water Shop,Bottle of DXwater,198,Scaraba
+Summers Gelato Cart,Gelato de Resort,49,Summers
+Summers Magic Tart Cart,Magic Tart,480,Summers
+Summers Restaurant,Chef's Special,298,Summers
+Summers Restaurant,Pasta di Summers,128,Summers
+Summers Restaurant,Kraken Soup,648,Summers
+Summers Restaurant,Royal Iced Tea,78,Summers
+Summers Restaurant,Can of Fruit Juice,4,Summers
+Summers Restaurant,Cup of Coffee,6,Summers
+Summers Shop,Big League Bat,3080,Summers
+Summers Shop,Chef's Fry Pan,1198,Summers
+Summers Shop,Lucky Coin,6000,Summers
+Summers Shop,Gold Bracelet,2799,Summers
+Summers Shop,Platinum Band,3899,Summers
+Summers Shop,Diamond Band (1),9998,Summers
+Summers Shop,Super Plush Bear,1198,Summers
+Tenda Village Trading Post,Plain Roll (Trade 1 Horn of Life),0,Tenda Village
+Tenda Village Trading Post,Plain Yogurt (Trade 2 Horn of Life),0,Tenda Village
+Tenda Village Trading Post,Plain Roll (Trade 3 Horn of Life),0,Tenda Village
+Tenda Village Trading Post,Spicy Jerky (Trade 4 Horn of Life),0,Tenda Village
+Tenda Village Trading Post,Bag of Dragonite (Trade 5 Horn of Life),0,Tenda Village
+Tenda Village Trading Post,Talisman Coin (Trade 6 Horn of Life),0,Tenda Village
+Tenda Village Trading Post,Hall of Fame Bat (Trade 7 Horn of Life),0,Tenda Village
+Threed Arms Dealer,Toy Air Gun,215,Threed
+Threed Arms Dealer,Bomb,148,Threed
+Threed Arms Dealer,Bottle Rocket,29,Threed
+Threed Arms Dealer,Rust Promoter,89,Threed
+Threed Bakery,Cookie,7,Threed
+Threed Bakery,Bread Roll,12,Threed
+Threed Bakery,Croissant,18,Threed
+Threed Bakery,Skip Sandwich,38,Threed
+Threed Bakery,Lucky Sandwich,128,Threed
+Threed Bakery,Can of Fruit Juice,4,Threed
+Threed Bakery,Cup of Coffee,6,Threed
+Threed Drugstore,Cold Remedy,22,Threed
+Threed Drugstore,Vial of Serum,58,Threed
+Threed Drugstore,Refreshing Herb,80,Threed
+Threed Drugstore,Toothbrush,3,Threed
+Threed Drugstore,Calorie Stick,18,Threed
+Threed Drugstore,Minor League Bat,399,Threed
+Threed Drugstore,Thick Fry Pan,198,Threed
+Threed Drugstore,Hard Hat,298,Threed
+Threed Drugstore,Insecticide Spray,19,Threed
+Threed Drugstore,Copper Bracelet,349,Threed
+Topolla Theater,Show Ticket,30,Fourside
+Toto Shop,Coin of Defense,2000,Summers
+Toto Shop,Bottle of Water,4,Summers
+Toto Shop,Secret Herb,380,Summers
+Toto Shop,Skip Sandwich DX,98,Summers
+Toto Shop,Lucky Sandwich,128,Summers
+Toto Shop,Cup of Coffee,6,Summers
+Toto Shop,Can of Fruit Juice,4,Summers
+Twoson Dept. Store Bakery,Cookie,7,Twoson
+Twoson Dept. Store Bakery,Bread Roll,12,Twoson
+Twoson Dept. Store Bakery,Skip Sandwich,38,Twoson
+Twoson Dept. Store Bakery,Lucky Sandwich,128,Twoson
+Twoson Dept. Store Burger Shop,Can of Fruit Juice,4,Twoson
+Twoson Dept. Store Burger Shop,Cup of Coffee,6,Twoson
+Twoson Dept. Store Burger Shop,Bag of Fries,8,Twoson
+Twoson Dept. Store Burger Shop,Hamburger,14,Twoson
+Twoson Dept. Store Shop,Cold Remedy,22,Twoson
+Twoson Dept. Store Shop,Teddy Bear,178,Twoson
+Twoson Dept. Store Shop,Tee Ball Bat,48,Twoson
+Twoson Dept. Store Shop,Fry Pan,56,Twoson
+Twoson Dept. Store Shop,Slingshot,89,Twoson
+Twoson Dept. Store Shop,Cheap Bracelet,98,Twoson
+Twoson Dept. Store Shop,Baseball Cap,19,Twoson
+Twoson Dept. Store Shop,Ribbon,89,Twoson
+Winters Drugstore,T-Rex's Bat,698,Winters
+Winters Drugstore,Non-Stick Frypan,1490,Winters
+Winters Drugstore,Coin of Silence,2500,Winters
+Winters Drugstore,Picnic Lunch,24,Winters
+Winters Drugstore,Skip Sandwich DX,98,Winters
+Winters Drugstore,Lucky Sandwich,128,Winters
+Winters Drugstore,Cup of Coffee,6,Winters
+Winters Laboratory Cave Boy,Cup of Noodles,98,Winters
+Winters Laboratory Cave Boy,Beef Jerky,70,Winters
+Winters Laboratory Cave Boy,Protein Drink,38,Winters
+Winters Laboratory Cave Boy,Cup of Coffee,6,Winters
+Winters Laboratory Cave Boy,Bottle of DXwater,198,Winters
+Winters Laboratory Cave Boy,Secret Herb,380,Winters
+Winters Laboratory Cave Boy (After Stonehenge),Double Burger,24,Winters
+Winters Laboratory Cave Boy (After Stonehenge),Picnic Lunch,24,Winters
+Winters Laboratory Cave Boy (After Stonehenge),Fresh Egg,12,Winters
+Winters Laboratory Cave Boy (After Stonehenge),Cup of Coffee,6,Winters
+Winters Laboratory Cave Boy (After Stonehenge),Secret Herb,380,Winters

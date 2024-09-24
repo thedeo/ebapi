@@ -1,0 +1,14 @@
+# Ignore all Python cache files
+*.pyc
+
+# Ignore the __pycache__ directory
+__pycache__
+
+# Ignore all test files and directories
+tests/
+
+# Ignore any other specific files or directories
+node_modules/
+.git/
+.gitignore
+.zipignore

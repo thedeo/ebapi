@@ -1,0 +1,69 @@
+name,food_type,buy_price,sell_price,effect_type,effects,condement
+Bag of Fries,Food,8,4,hp,24 HP,Ketchup Packet
+Banana,Food,5,2,hp,25 HP,Carton of Cream
+Bean Croquette,Food,12,6,hp,40 HP,Ketchup Packet
+Beef Jerky,Food,70,35,hp,150 HP,Ketchup Packet
+Boiled Egg,Food,9,4,hp,40 HP,Salt Packet
+Bottle of DX Water,Food,198,99,pp,1 PP (Poo: 40 PP),
+Bottle of Water,Food,4,2,pp,1 PP (Poo: 10 PP),
+Bowl of Rice Gruel,Food,88,44,hp,200 HP,Sprig of Parsley
+Brain Food Lunch,Food,800,400,hp/pp,"300 HP, 50 PP (Poo: x2)",Salt Packet
+Bread Roll,Food,12,6,hp,30 HP,Sugar Packet
+Calorie Stick,Food,18,9,hp,60 HP,Sugar Packet
+Can of Fruit Juice,Food,4,2,hp,6 HP,
+Carton of Cream,Condiments,4,2,,A good combination increases the strength of your recovery.,
+Chef's Special,Food,298,149,hp,200 HP,Salt Packet
+Cold Remedy,Medicines,22,11,,Removes Cold ailment,
+Cookie,Food,7,3,hp,6 HP,Tin of Cocoa
+Croissant,Food,18,9,hp,60 HP,Ketchup Packet
+Cup of Coffee,Food,6,3,hp,12 HP,
+Cup Of Lifenoodles,Medicines,178,89,status,"Revives party member. Also cures poison, nausea, colds, sunstroke, falling asleep, uncontrollable crying, and feeling strange.",
+Cup of Noodles,Food,98,49,hp,42 HP,Jar of Hot Sauce
+Double Burger,Food,24,12,hp,96 HP,Ketchup Packet
+Fresh Egg,Food,12,6,hp,84 HP,Ketchup Packet
+Gelato de Resort,Food,49,24,hp,30 HP,Tin of Cocoa
+Guts Capsule,Stat Boosters,0,19,stat,Increases Guts by 1.,
+Hamburger,Food,14,7,hp,50 HP,Ketchup Packet
+Hand-Aid,Medicines,19,9,status,,
+Horn Of Life,Medicines,1780,890,status,"Revives a party member. Also cures poison, nausea, colds, sunstroke, falling asleep, uncontrollable crying, and feeling strange.",
+IQ Capsule,Stat Boosters,0,19,stat,Increases IQ by 1.,
+Jar of Delisauce,Condiments,300,150,,increasing the recovery power of the food.,
+Jar of Hot Sauce,Condiments,3,1,,A good combination increases the strength of your recovery.,
+Kabob,Food,54,27,hp,126 HP,Ketchup Packet
+Ketchup Packet,Condiments,2,1,,A good combination increases the strength of your recovery.,
+Kraken Soup,Food,648,324,hp,Full HP,
+Large Pizza,Food,238,119,hp,240 HP,
+Luck Capsule,Stat Boosters,0,19,luck,Increases Luck by 1.,
+Lucky Sandwich,Food,128,64,hp,60 HP,Carton of Cream
+Luxury Jerky,Food,210,105,hp,300 HP,Ketchup Packet
+Magic Pudding,Food,680,340,pp,40 PP,Sugar Packet
+Magic Tart,Food,480,240,pp,20 PP,Sugar Packet
+Magic Truffle,Food,298,149,pp,80 PP,Ketchup Packet
+Mammoth Burger,Food,98,49,hp,204 HP,Ketchup Packet
+Molokheiya Soup,Food,20,10,hp,84 HP,
+Pasta di Summers,Food,128,64,hp,108 HP,Jar of Hot Sauce
+Peanut Cheese Bar,Food,22,11,hp,108 HP,Sprig of Parsley
+Picnic Lunch,Food,24,12,hp,24 HP,Salt Packet
+Piggy Jelly,Food,222,111,hp,300 HP,Sprig of Parsley
+Pizza,Food,48,24,hp,120 HP,Jar of Hot Sauce
+Plain Roll,Food,38,19,hp,84 HP,Tin of Cocoa
+Plain Yogurt,Food,78,39,hp,168 HP,Sugar Packet
+Popsicle,Food,7,3,hp,18 HP,Carton of Cream
+Protein Drink,Food,38,19,hp,84 HP,
+PSI Caramel,Food,100,50,pp,20 PP,Sugar Packet
+Refreshing Herb,Medicines,80,40,status,"Cures poison, nausea, colds, sunstroke, falling asleep, uncontrollable crying, and feeling strange.",
+Rock Candy,Stat Boosters,0,19,stat,"Increases either Speed, Guts, Vitality, IQ, or Luck. Goes well with Sugar Packet.",
+Royal Iced Tea,Food,78,39,hp,60 HP,
+Salt Packet,Condiments,2,1,,A good combination increases the strength of your recovery.,
+Secret Herb,Medicines,380,190,status,"Cures poison, nausea, colds, sunstroke, falling asleep, uncontrollable crying, and feeling strange. Chance to revive party member.",
+Skip Sandwich,Food,38,19,hp/speed,"6 HP, walk speed 10sec",Tin of Cocoa
+Skip Sandwich DX,Food,98,49,hp/speed,"6 HP, walk speed 20sec",Tin of Cocoa
+Speed Capsule,Stat Boosters,0,19,stat,Increases Speed by 1.,
+Spicy Jerky,Food,140,70,hp,252 HP,Ketchup Packet
+Sprig of Parsley,Condiments,2,1,,A good combination increases the strength of your recovery.,
+Sugar Packet,Condiments,3,1,,A good combination increases the strength of your recovery.,
+Tin of Cocoa,Condiments,4,2,,A good combination increases the strength of your recovery.,
+Trout Yogurt,Food,48,24,hp,30 HP,Carton of Cream
+Vial Of Serum,Medicines,58,29,status,Cures poison.,
+Vital Capsule,Stat Boosters,0,19,stat,Increases Vitality by 1.,
+Wet Towel,Medicines,24,12,status,Cures sunstroke.,

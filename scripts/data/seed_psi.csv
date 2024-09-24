@@ -1,0 +1,53 @@
+id,name,psi_class,psi_type,used_by,target,pp_cost,aoe,points,effects
+hypnosis_alpha,Hypnosis α,alpha,Defense,ness:4,enemy,6,single,,Sleep
+hypnosis_omega,Hypnosis Ω,omega,Defense,ness:27,enemy,18,all,,Sleep
+shield_alpha,Shield α,alpha,Defense,ness:12/poo:15,ally,6,single,,Shield
+shield_sigma,Shield Σ,sigma,Defense,poo:15,ally,18,all,,Shield
+shield_beta,Shield β,beta,Defense,ness:34/poo:16,ally,10,single,,Power Shield
+shield_omega,Shield Ω,omega,Defense,poo:51,ally,30,all,,Power Shield
+shield_alpha,PSI Shield α,alpha,Defense,paula:6,ally,8,single,,Psychic Shield
+shield_sigma,PSI Shield Σ,sigma,Defense,paula:26,ally,24,all,,Psychic Shield
+shield_beta,PSI Shield β,beta,Defense,paula:51,ally,14,single,,Psychic Power Shield
+shield_omega,PSI Shield Ω,omega,Defense,paula:60,ally,42,all,,Psychic Power Shield
+brainshock_alpha,Brainshock α,alpha,Defense,poo:24,enemy,10,single,,Feel Strange
+brainshock_omega,Brainshock Ω,omega,Defense,poo:44,enemy,30,all,,Feel Strange
+paralysis_alpha,Paralysis α,alpha,Defense,ness:14,enemy,8,single,,Paralyze
+paralysis_omega,Paralysis Ω,omega,Defense,ness:29,enemy,24,all,,Paralyze
+offense_up_alpha,Offense Up α,alpha,Defense,paula:21,ally,10,single,,Raise Offense
+offense_up_omega,Offense Up Ω,omega,Defense,paula:40,ally,30,all,,Raise Offense
+defense_up_alpha,Defense Up α,alpha,Defense,paula:29,ally,6,single,,Raise Defense
+defense_up_omega,Defense Up Ω,omega,Defense,paula:54,ally,18,all,,Raise Defense
+rockin_alpha,PSI Rockin' α,alpha,Offense,ness:8,enemy,10,all,40-120,Damage
+rockin_beta,PSI Rockin' β,beta,Offense,ness:22,enemy,14,all,90-270,Damage
+rockin_gamma,PSI Rockin' γ,gamma,Offense,ness:49,enemy,40,all,160-480,Damage
+rockin_omega,PSI Rockin' Ω,omega,Offense,ness:75,enemy,98,all,320-960,Damage
+flash_alpha,PSI Flash α,alpha,Offense,ness:18,enemy,8,all,,Status Effects
+flash_beta,PSI Flash β,beta,Offense,ness:38,enemy,19,all,,Status Effects
+flash_gamma,PSI Flash γ,gamma,Offense,ness:61,enemy,24,all,,Status Effects
+flash_omega,PSI Flash Ω,omega,Offense,ness:67,enemy,32,all,,Status Effects
+fire_alpha,PSI Fire α,alpha,Offense,paula:3,enemy,6,row,60-100,Damage
+fire_beta,PSI Fire β,beta,Offense,paula:19,enemy,12,row,120-200,Damage
+fire_gamma,PSI Fire γ,gamma,Offense,paula:37,enemy,20,row,180-300,Damage
+fire_omega,PSI Fire Ω,omega,Offense,paula:64,enemy,42,row,240-400,Damage
+freeze_alpha,PSI Freeze α,alpha,Offense,paula:1/poo:15,enemy,4,single,135-255,Damage
+freeze_beta,PSI Freeze β,beta,Offense,paula:11/poo:15,enemy,9,single,270-450,Damage
+freeze_gamma,PSI Freeze γ,gamma,Offense,paula:31/poo:33,enemy,18,single,405-675,Damage
+freeze_omega,PSI Freeze Ω,omega,Offense,paula:46,enemy,28,single,540-900,Damage
+starstorm_alpha,PK Starstorm α,alpha,Offense,poo:0,enemy,24,all,270-450,Damage
+starstorm_omega,PK Starstorm Ω,omega,Offense,poo:0,enemy,42,all,540-900,Damage
+thunder_alpha,PSI Thunder α,alpha,Offense,paula:8/poo:15,enemy,3,single,60-180,Damage
+thunder_beta,PSI Thunder β,beta,Offense,paula:25/poo:15,enemy,7,single,60-180,Damage x2
+thunder_gamma,PSI Thunder γ,gamma,Offense,paula:57/poo:41,enemy,16,single,100-300,Damage x3
+thunder_omega,PSI Thunder Ω,omega,Offense,poo:55,enemy,20,single,100-300,Damage x4
+lifeup_alpha,Lifeup α,alpha,Recover,ness:2/poo:15,ally,5,single,75-125,Restore HP
+lifeup_beta,Lifeup β,beta,Recover,ness:20/poo:15,ally,8,single,225-375,Restore HP
+lifeup_gamma,Lifeup γ,gamma,Recover,ness:39/poo:46,ally,13,single,,Restore All HP
+lifeup_omega,Lifeup Ω,omega,Recover,ness:70,ally,24,all,300-500,Restore HP
+healing_alpha,Healing α,alpha,Recover,ness:10/poo:15,ally,5,single,,cold / sunstroke / sleep
+healing_beta,Healing β,beta,Recover,ness:24/poo:15,ally,8,single,,α + poison / nauseous / crying / strange
+healing_gamma,Healing γ,gamma,Recover,ness:53/poo:36,ally,20,single,,β + paralysis / diamond / death (75%)
+healing_omega,Healing Ω,omega,Recover,poo:52,ally,38,single,,γ + death (100% chance of working)
+magnet_alpha,PSI Magnet α,alpha,Recover,paula:15/poo:21,enemy,0,single,2-8,Restore PP
+magnet_omega,PSI Magnet Ω,omega,Recover,paula:24/poo:27,enemy,0,all,2-8,Restore PP
+teleport_alpha,Teleport α,alpha,Teleport,ness:0/poo:17,ally,2,,,Teleport
+teleport_beta,Teleport β,beta,Teleport,ness:0/poo:18,ally,8,,,Teleport

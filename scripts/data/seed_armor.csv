@@ -1,0 +1,42 @@
+name,armor_type,used_by,equip_slot,buy_price,sell_price,defense,luck,speed,protects
+Baseball Cap,Hat/Cap,Any,Other,19,9,5,0,0,
+Bracer of Kings,King Poo,Poo,Arms,0,0,30,35,0,Hypnosis
+Charm Coin,Coin,Any,Other,3000,1500,50,20,0,
+Cherub's Band,Band,Any,Arms,0,0,70,20,0,Hypnosis
+Diamond Band,Band,Any,Arms,5198,2599,50,0,0,
+Cloak of Kings,King Poo,Poo,Body,0,0,20,0,40,
+Coin of Defense,Coin,Any,Other,2000,1000,40,13,0,
+Coin of Silence,Coin,Any,Other,2500,1250,45,16,0,
+Coin of Slumber,Coin,Any,Other,1500,750,30,10,0,
+Goddess Band,Band,Any,Arms,1980,990,80,30,0,Hypnosis
+Crystal Charm,Charm,Any,Body,600,300,2,0,15,Paralysis
+Defense Ribbon,Ribbon,Paula,Other,389,194,40,15,0,
+Diadem of Kings,King Poo,Poo,Other,0,0,20,30,0,Freeze/Fire/Paralysis/Flash
+Platinum Band,Band,Any,Arms,3899,1949,40,0,0,
+Earth Pendant,Pendant,Any,Body,4000,2000,16,0,0,Fire/ Freeze/Flash
+Flame Pendant,Pendant,Any,Body,3000,1500,15,0,0,Fire
+Cheap Bracelet,Bracelet,Any,Arms,98,49,5,0,0,
+Goddess Ribbon,Ribbon,Paula,Other,6980,3490,110,0,0,
+Copper Bracelet,Bracelet,Any,Arms,349,174,10,0,0,
+Great Charm,Charm,Any,Body,400,200,1,0,5,Paralysis
+Hard Hat,Hat/Cap,Any,Other,298,149,15,0,0,
+Holmes Hat,Hat/Cap,Any,Other,59,29,10,0,0,
+Lucky Coin,Coin,Any,Other,6000,3000,50,20,0,
+Mr. Baseball Cap,Hat/Cap,Any,Other,199,99,6,0,0,
+Mr. Saturn Coin,Coin,Any,Other,1000,500,47,18,0,
+Night Pendant,Pendant,Any,Body,3000,1500,15,0,0,Flash
+Gold Bracelet,Bracelet,Any,Arms,2799,1399,30,0,0,
+Pixie's Bracelet,Bracelet,Any,Arms,1590,795,60,10,0,Hypnosis
+Rabbit's Foot,Charm,Any,Body,1800,900,3,0,40,Paralysis
+Rain Pendant,Pendant,Any,Body,3000,1500,15,0,0,Freeze
+Red Ribbon,Ribbon,Paula,Other,179,89,25,0,0,
+Ribbon,Ribbon,Paula,Other,89,44,20,0,0,
+Saturn Ribbon,Ribbon,Paula,Other,3980,1990,90,40,0,
+Sea Pendant,Pendant,Any,Body,5000,2500,20,0,0,Fire/ Freeze/Flash
+Shiny Coin,Coin,Any,Other,4000,2000,70,30,0,
+Silver Bracelet,Bracelet,Any,Arms,599,299,15,0,0,
+Souvenir Coin,Coin,Any,Other,6000,3000,80,35,0,
+Star Pendant,Pendant,Any,Body,7000,3500,30,0,0,Fire/ Freeze/Flash/Paralysis
+Talisman Coin,Coin,Any,Other,10680,1750,60,25,0,
+Talisman Ribbon,Ribbon,Paula,Other,3500,1750,60,25,0,
+Travel Charm,Charm,Any,Body,60,30,0,0,0,Paralysis

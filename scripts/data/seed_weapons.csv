@@ -1,0 +1,42 @@
+name,weapon_type,used_by,buy_price,sell_price,offense,areas,effects
+Baddest Beam,Beam,Jeff,0,0,98,Present,Repair Broken Harmonica
+Big League Bat,Bat,Ness,3080,1540,54,Summers/Scaraba,None
+Bionic Slingshot,Slingshot,Any,449,225,30,Shop,Misses 18.75% of the time.
+Casey Bat,Bat,Ness,39,19,125,Defeating Master Barf,Misses 3/4 of the time
+Chef's Fry Pan,Pan,Paula,1198,599,40,Shop,None
+Combat Yo-Yo,YoYo,Any,1148,574,50,Shop,Misses 18.75% of the time.
+Cracked Bat,Bat,Ness,18,9,4,Present/Shop,None
+Crusher Beam,Beam,Jeff,1150,575,72,Shop,None
+Death Ray,Beam,Jeff,2300,1150,90,Present,None
+Deluxe Fry Pan,Pan,Paula,598,299,30,Shop,None
+Double Beam,Beam,Jeff,1000,500,66,Shop,Repair Broken Gadget
+French Fry Pan,Pan,Paula,1790,895,60,Shop,Misses 1/16 of the time
+Fry Pan,Pan,Paula,56,28,10,Shop,None
+Gaia Beam,Beam,Jeff,0,0,125,Present,Repair Broken Antenna
+Gutsy Bat,Bat,Ness,2980,1490,100,Find from Bionic Kraken,+127 Guts
+Hall of Fame Bat,Bat,Ness,1880,940,62,Gift,None
+Holy Fry Pan,Pan,Paula,3480,1740,80,Shop,+10 Guts
+Hyper Beam,Beam,Jeff,850,425,58,Shop,None
+Laser Gun,Beam,Jeff,0,0,48,Present,Repair Broken Laser
+Legendary Bat,Bat,Ness,0,0,110,Present,None
+Magic Fry Pan,Pan,Paula,4790,2395,50,Find from Chomposaur,"+100 Guts, Misses 1/4 of the time"
+Magicant Bat,Bat,Ness,0,0,80,Present,None
+Magnum Air Gun,Gun,Jeff,0,0,36,Present,Repair Broken Air Gun
+Minor League Bat,Bat,Ness,399,199,26,Shop,None
+Moon Beam Gun,Gun,Jeff,4450,2225,110,Present,None
+Mr. Baseball Bat,Bat,Ness,498,249,38,Shop,None
+Non-Stick Fry Pan,Pan,Paula,1490,745,50,Shop,None
+Pop Gun,Gun,Jeff,110,55,16,Present,None
+Sand Lot Bat,Bat,Ness,98,49,15,Shop,None
+Slingshot,Slingshot,Any,80,40,12,Shop,Misses 18.75% of the time.
+Spectrum Beam,Beam,Jeff,1650,825,78,Shop,Repair Broken Cannon
+Stun Gun,Gun,Jeff,150,75,24,Present,None
+Sword of Kings,Sword,Poo,0,0,30,Find from Starman Super,Only weapon Poo can equip
+T-Rex's Bat,Bat,Ness,698,349,48,Shop,None
+Tee Ball Bat,Bat,Ness,48,24,8,Shop,None
+Thick Fry Pan,Pan,Paula,198,99,20,Shop,None
+Toy Air Gun,Gun,Jeff,215,108,32,Shop,None
+Trick Yo-Yo,YoYo,Any,998,499,40,Shop,Misses 18.75% of the time.
+Ultimate Bat,Bat,Ness,2298,1149,68,Shop,None
+Yo-Yo,YoYo,Any,29,15,6,Shop,Misses 18.75% of the time.
+Zip Gun,Gun,Jeff,425,213,40,Shop,None

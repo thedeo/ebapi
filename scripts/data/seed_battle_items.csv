@@ -1,0 +1,36 @@
+name,battle_item_type,used_by,buy_price,sell_price,target,aoe,effects
+Bag of Dragonite,Offensive,Any,1000,500,enemy,single,Deals damage
+Bazooka,Offensive,Jeff,950,475,enemy,splash,"Deals damage, useable only by Jeff"
+Big Bottle Rocket,Offensive,Jeff,139,69,enemy,single,"Deals damage, useable only by Jeff"
+Bomb,Offensive,Any,148,74,enemy,splash,Deals damage
+Bottle Rocket,Offensive,Jeff,29,14,enemy,single,"Deals damage, useable only by Jeff"
+Counter-PSI Unit,Defensive,Any,0,0,enemy,single,Enemy cannot use PSI for four rounds
+Defense Shower,Defensive,Any,0,0,ally,all,Increases defense
+Defense Spray,Defensive,Any,500,250,ally,single,Increases defense
+Handbag Strap,Offensive,Any,39,19,enemy,single,"Deals damage, solidifies enemy"
+Heavy Bazooka,Offensive,Jeff,0,0,enemy,splash,"Deals damage, useable only by Jeff"
+HP-Sucker,Offensive,Any,800,400,enemy,single,Absorbs HP
+Hungry-HP Sucker,Offensive,Any,0,0,enemy,all,Absorbs HP
+Insecticide Spray,Offensive,Any,19,9,enemy,single,Deals damage to bugs only
+Monkey's Love,Offensive,Any,0,0,enemy,single,Solidifies random enemy
+Multi Bottle Rocket,Offensive,Jeff,2139,1069,enemy,single,"Deals damage, useable only by Jeff"
+Mummy Wrap,Offensive,Any,128,64,enemy,single,"Deals damage, solidifies enemy"
+Neutralizer,Defensive,Any,0,0,all,all,Neutralizes shields and status effects
+Pair of Dirty Socks,Offensive,Any,2,1,enemy,single,Solidifies enemy
+Pharaoh's Curse,Offensive,Any,290,145,enemy,single,Poisons enemy
+Plush Bear,Defensive,Any,178,89,,,Can take 100 HP dmg from enemies
+Protractor,Other,Any,2,1,enemy,single,
+Ruler,Other,Any,2,1,enemy,single,
+Rust Promoter,Offensive,Any,89,44,enemy,all,Deals damage to metallic enemies only
+Rust Promoter DX,Offensive,Any,289,144,enemy,all,Deals damage to metallic enemies only
+Shield Killer,Defensive,Any,0,0,enemy,single,Neutralizes enemy's shield
+Slime Generator,Offensive,Any,420,210,enemy,single,Solidifies random enemy
+Snake,Offensive,Any,220,110,enemy,single,Deals damage and poisons enemy
+Snake Bag,Offensive,Any,98,49,enemy,single,Deals damage and poisons enemy
+Stag Beetle,Offensive,Any,8,4,enemy,single,Solidifies enemy
+Sudden Guts Pill,Defensive,Any,500,250,ally,single,Raises Guts
+Super Bomb,Offensive,Any,399,199,enemy,splash,Deals damage
+Super Plush Bear,Defensive,Any,1198,599,,,Can take 400 HP dmg from enemies
+Toothbrush,Offensive,Any,3,1,enemy,single,Solidifies enemy
+Viper,Offensive,Any,550,275,enemy,single,Poisons enemy
+Xterminator Spray,Offensive,Any,630,315,enemy,single,Deals damage to bugs only
