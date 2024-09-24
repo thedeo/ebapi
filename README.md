@@ -6,12 +6,12 @@ API available at: https://api.earthboundgame.com/docs
 
 ## Features
 
-- **FastAPI** - for building and handling requests.
-- **Uvicorn** - support locally for development.
-- **PynamoDB** - for DynamoDB interactions.
-- **Poetry** - for dependency management and packaging.
+- **FastAPI** - for building and handling requests
+- **Uvicorn** - support locally for development
+- **PynamoDB** - for DynamoDB interactions
+- **Poetry** - for dependency management and packaging
 - **Pytest** - for unit tests where PynamoDB models are fully mocked
-- **Terraform** - for infrastructure as code.
+- **Terraform** - for infrastructure as code
 - **Serverless Architecture** - using Lambda, API Gateway and DynamoDB on AWS
 
 ## Getting Started
