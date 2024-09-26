@@ -38,7 +38,7 @@ API available at: https://api.earthboundgame.com/docs
     ```
 
     ```bash
-    poetry install
+    make install
     ```
 
 3. Seed the database (optional):
